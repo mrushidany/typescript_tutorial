@@ -14,3 +14,4 @@ addTwo(5);
 getUpper("4");
 signUpUser("Daniel", "mrushidany@gmail.com", false);
 loginUser("Daniel", "mrushidany@gmail.com");
+ 
